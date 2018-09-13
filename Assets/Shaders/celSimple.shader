@@ -1,6 +1,6 @@
 ﻿Shader "Custom/CelSimple"
 {
-	Properties
+	Properties 
 	{
 		_MainTex("Texture", 2D) = "white" {}
 		_RampTex("Ramp", 2D) = "white" {}
